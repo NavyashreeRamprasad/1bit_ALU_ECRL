@@ -1,0 +1,1 @@
+("inverter_tb:/\tinverter_tb inverter schematic" (("open" (nil hierarchy "/{inverter inverter_tb schematic }:a"))) (((-4.89375 -1.88125) (3.53125 1.73125)) "a" "Schematics" 2))("inverter_sch:/\tinverter_sch inverter schematic" (("open" (nil hierarchy "/{inverter inverter_sch schematic }:a"))) (((-3.39375 -2.00625) (6.09375 2.0625)) "a" "Schematics" 2))

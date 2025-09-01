@@ -1,0 +1,23 @@
+SOFTINCLUDE /home/exam/cds.lib
+DEFINE inverter /home/exam/Desktop/alu/inverter
+DEFINE mux2#3a1 /home/exam/Desktop/alu/mux2#3a1
+DEFINE nor /home/exam/Desktop/alu/nor
+DEFINE nand /home/exam/Desktop/alu/nand
+DEFINE diff /home/exam/Desktop/alu/diff
+DEFINE borrow /home/exam/Desktop/alu/borrow
+
+DEFINE nor1 /home/exam/Desktop/alu/nor1
+DEFINE nor /home/exam/Desktop/alu/nor
+DEFINE sum1 /home/exam/Desktop/alu/sum1
+DEFINE adder1 /home/exam/Desktop/alu/adder1
+DEFINE borrow123 /home/exam/Desktop/alu/borrow123
+DEFINE bor11 /home/exam/Desktop/alu/bor11
+DEFINE carry1 /home/exam/Desktop/alu/carry1
+DEFINE carry1 /home/exam/Desktop/alu/carry1
+DEFINE borrow1 /home/exam/Desktop/alu/borrow1
+DEFINE difference /home/exam/Desktop/alu/difference
+DEFINE cmos_inv /home/exam/Desktop/alu/cmos_inv
+DEFINE mux /home/exam/Desktop/alu/mux
+DEFINE alu /home/exam/Desktop/alu/alu
+DEFINE adder /home/exam/Desktop/alu/adder
+DEFINE subtractor /home/exam/Desktop/alu/subtractor
