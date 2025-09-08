@@ -1,0 +1,13 @@
+SOFTINCLUDE /home/exam/cds.lib
+DEFINE nand1 /home/exam/Desktop/finfit/nand1
+DEFINE nor /home/exam/Desktop/finfit/nor
+DEFINE inverter /home/exam/Desktop/finfit/inverter
+DEFINE adder /home/exam/Desktop/finfit/adder
+DEFINE carry1 /home/exam/Desktop/finfit/carry1
+DEFINE inverterfin /home/exam/Desktop/finfit/inverterfin
+DEFINE sum /home/exam/Desktop/finfit/sum
+DEFINE borrow /home/exam/Desktop/.finfit/borrow
+DEFINE diff /home/exam/Desktop/finfit/diff
+DEFINE adder /home/exam/Desktop/finfit/adder
+DEFINE mux /home/exam/Desktop/finfit/mux
+DEFINE alu /home/exam/Desktop/finfit/alu

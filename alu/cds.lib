@@ -21,3 +21,5 @@ DEFINE mux /home/exam/Desktop/alu/mux
 DEFINE alu /home/exam/Desktop/alu/alu
 DEFINE adder /home/exam/Desktop/alu/adder
 DEFINE subtractor /home/exam/Desktop/alu/subtractor
+DEFINE alu_4bit /home/exam/Desktop/alu/alu_4bit
+DEFINE alu_4b /home/exam/Desktop/alu/alu_4b

@@ -1,0 +1,61 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 03/31/2021 15:41 (sjfdcl1031) $
+\o Sub version:		sub-version  s184 
+\o Arguments:		-mpssession virtuoso3474 -mpshost cadence6 
+\o Working Directory:	cadence6:/home/exam/Desktop/finfit
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Log file is "/home/exam/Desktop/finfit/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(0 28 1024 489))
+\o changeWorkingDir("/home/exam/Desktop/finfit") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\w Warning: The directory: '/home/exam/Desktop/.finfit/borrow' does not exist
+\w 	but was defined in libFile '/home/exam/Desktop/finfit/cds.lib' for Lib 'borrow'.
+\a cdsLibManager->libListBox->value = "FINFET"
+\a cdsLibManager->libLineEdit->value = "FINFET"
+\a lmgrLogShowPopup("mainListPopup0" 36 5 2 "FINFET")
+\a cdsLibManager->editPropertiesButton->value = t
+\o MPS request: edit property
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\w Warning: The directory: '/home/exam/Desktop/.finfit/borrow' does not exist
+\w 	but was defined in libFile '/home/exam/Desktop/finfit/cds.lib' for Lib 'borrow'.
+\a cdsLibManager->libListBox->value = "FINFET"
+\a cdsLibManager->libLineEdit->value = "FINFET"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\w Warning: The directory: '/home/exam/Desktop/.finfit/borrow' does not exist
+\w 	but was defined in libFile '/home/exam/Desktop/finfit/cds.lib' for Lib 'borrow'.
+\a cdsLibManager->libListBox->value = "FINFET"
+\a cdsLibManager->libLineEdit->value = "FINFET"
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "cds_ff_mpt_scl"
+\a cdsLibManager->libLineEdit->value = "cds_ff_mpt_scl"
+\a lmgrLogShowPopup("mainListPopup0" 33 166 2 "cds_ff_mpt_scl")
+\a cdsLibManager->editPropertiesButton->value = t
+\o MPS request: edit property
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "basic"
+\a cdsLibManager->libLineEdit->value = "basic"
+\a cdsLibManager->libListBox->value = "FINFET"
+\a cdsLibManager->libLineEdit->value = "FINFET"
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)
